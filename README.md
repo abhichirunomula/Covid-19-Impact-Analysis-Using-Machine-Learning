@@ -16,8 +16,11 @@ Visualizations are created using **Plotly** for interactive analysis.
   - Clustering: cluster countries by multi-metric impact (cases per capita, GDP drop, HDI) to identify similar response groups.
   - Impact of Stringency Index on total cases.
 ## 🧠 Technologies Used
-- Python
-- Pandas
-- Plotly Express & Graph Objects
-- Jupyter Notebook
+| **Programming Language** | Python 3.x |
+| **Data Analysis** | Pandas, NumPy |
+| **Visualization** | Plotly Express, Plotly Graph Objects, Seaborn, Matplotlib |
+| **Machine Learning** | Scikit-learn (LinearRegression, train_test_split, metrics) |
+| **Environment** | Jupyter Notebook, Google Colab |
+| **File Handling** | CSV (raw_data.csv, transformed_data.csv) |
+| **Version Control** | Git & GitHub |
 
