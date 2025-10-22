@@ -19,7 +19,7 @@ Visualizations are created using **Plotly** for interactive analysis.
 - Programming Language: Python 3.x 
 - Data Analysis: Pandas, NumPy.
 - Visualization: Plotly Express, Plotly Graph Objects, Seaborn, Matplotlib. 
-- Machine Learning:Scikit-learn (LinearRegression, train_test_split, metrics) .
+- Machine Learning: Scikit-learn (LinearRegression, train_test_split, metrics) .
 - Environment: Jupyter Notebook, Google Colab. 
 
 
